@@ -1,7 +1,6 @@
 # vue-avatar
 
-> A Vue.js project
-
+> A Vue.js project 预览地址[avatar.zhydaxq.com](https://avatar.zhydaxq.com/)
 ## Build Setup
 
 ``` bash
