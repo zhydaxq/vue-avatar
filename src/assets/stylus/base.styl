@@ -1,0 +1,31 @@
+@import "variable.styl"
+
+body, html
+  width 100%
+  height 100%
+  line-height 1
+  font-family 'PingFang SC', 'STHeitiSC-Light', 'Helvetica-Light', arial, sans-serif, 'Droid Sans Fallback'
+  user-select none
+  -webkit-tap-highlight-color transparent
+  background $color-background
+  color $color-text
+
+.app-item
+  background url(../images/imglazy.jpg) center bottom no-repeat #fff
+  background-size 100% 100%
+img[lazy="loading"]
+  opacity 0
+  background #fff
+img[lazy="loaded"]
+  opacity 1
+  background #fff
+  transition opacity .5s ease-in 0.1s
+  
+*
+  box-sizing border-box
+  user-selectnone
+  touch-action none
+
+#__vconsole .vc-cmd-input
+  user-selectauto
+  touch-action auto 
