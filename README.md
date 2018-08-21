@@ -2,7 +2,9 @@
 
 > A Vue.js project 预览地址[avatar.zhydaxq.com](https://avatar.zhydaxq.com/)
 
-![Image text](https://raw.githubusercontent.com/zhydaxq/vue-avatar/master/src/assets/images/loading.jpg)
+![Image text](https://raw.githubusercontent.com/zhydaxq/vue-avatar/master/src/assets/images/github1.jpg)
+![Image text](https://raw.githubusercontent.com/zhydaxq/vue-avatar/master/src/assets/images/github2.jpg)
+![Image text](https://raw.githubusercontent.com/zhydaxq/vue-avatar/master/src/assets/images/github3.jpg)
 
 ## Build Setup
 
